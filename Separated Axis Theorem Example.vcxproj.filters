@@ -33,33 +33,33 @@
     <ClCompile Include="src\stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ShapeMaker.cpp">
+    <ClCompile Include="src\ShapeMaker.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\BouncingBox.h">
+    <ClInclude Include="headers\BouncingBox.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\BouncingThing.h">
+    <ClInclude Include="headers\BouncingThing.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\BouncingTriangle.h">
+    <ClInclude Include="headers\BouncingTriangle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\CollisionDetection.h">
+    <ClInclude Include="headers\CollisionDetection.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\Multiside.h">
+    <ClInclude Include="headers\Multiside.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\stdafx.h">
+    <ClInclude Include="headers\ShapeMaker.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\targetver.h">
+    <ClInclude Include="headers\stdafx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ShapeMaker.h">
+    <ClInclude Include="headers\targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,7 +1,10 @@
 // Separated Axis Theorem Example.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-#include "stdafx.h" 
+
+
+
+#include "headers/stdafx.h" 
 #ifdef _DEBUG 
 #pragma comment(lib,"sfml-graphics-d.lib") 
 #pragma comment(lib,"sfml-system-d.lib") 
@@ -14,14 +17,14 @@
 #pragma comment(lib,"opengl32.lib") 
 #pragma comment(lib,"glu32.lib") 
 
-#include "SFML/Graphics.hpp" 
-#include "SFML/OpenGL.hpp" 
+#include "headers/SFML/Graphics.hpp" 
+#include "headers/SFML/OpenGL.hpp" 
 #include <iostream> 
 
 #include <math.h>
-#include "BouncingThing.h"
-#include "CollisionDetection.h"
-#include "ShapeMaker.h"
+#include "headers/BouncingThing.h"
+#include "headers/CollisionDetection.h"
+#include "headers/ShapeMaker.h"
 
 
 //////////////////////////////////////////////////////////// 
